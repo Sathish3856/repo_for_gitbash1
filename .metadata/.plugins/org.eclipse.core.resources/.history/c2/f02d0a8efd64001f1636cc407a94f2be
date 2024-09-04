@@ -1,0 +1,15 @@
+package com.gitpractice;
+
+public class Demo
+{
+	public static void main(String[]args)
+	{
+		//changes done by sam
+		//changes done by sam 1
+		//changes done by sam from another folder
+		//changes done by the sam from folder 2
+		//commit by sam from sam workspace
+		
+	}
+
+}
